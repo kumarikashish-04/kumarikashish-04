@@ -85,9 +85,8 @@ Full stack blog application with authentication and CRUD functionality.
 
 ## 🏆 Coding Profiles
 
-💻 LeetCode: https://leetcode.com/your-username
-💻 CodeChef: https://codechef.com/users/your-username
-💻 GeeksforGeeks: https://auth.geeksforgeeks.org/user/your-username
+💻 LeetCode: [https://leetcode.com/your-username](https://leetcode.com/u/kashish_04/)
+💻 GeeksforGeeks: [https://auth.geeksforgeeks.org/user/your-username](https://www.geeksforgeeks.org/profile/singh03kpm7w)
 
 ---
 
