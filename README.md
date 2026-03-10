@@ -1,4 +1,4 @@
-# Hi 👋 I'm Kashish Singh
+# Hi 👋 I'm Kashish Kumari
 
 💻 **C++ Developer | DSA Learner | Backend Enthusiast**
 
