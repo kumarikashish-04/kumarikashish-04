@@ -41,7 +41,7 @@ Git | GitHub | VS Code | Jupyter Notebook | sklearn
 A full-stack job portal web application with authentication, job listings, and application management.
 
 **Tech Stack:** React, Node.js, Express.js, MongoDB
-🌐 Live: https://job-portal.vercel.app
+🌐 Live: [https://job-portal.vercel.app](https://jobportal-orcin-nine.vercel.app/)
 📂 Repo: https://github.com/kumarikashish-04/Job-Portal
 
 ---
