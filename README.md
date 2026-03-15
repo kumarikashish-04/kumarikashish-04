@@ -1,6 +1,5 @@
 # Hi 👋 I'm Kashish Kumari
 
-![Profile Views](https://komarev.com/ghpvc/?username=kumarikashish-04&color=blue&style=for-the-badge)
 
 💻 **C++ Developer | DSA Learner | Backend Enthusiast**
 
