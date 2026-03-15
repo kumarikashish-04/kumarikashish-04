@@ -129,6 +129,9 @@ Java Swing desktop application for managing student records with CRUD operations
 💻 GeeksforGeeks: https://www.geeksforgeeks.org/profile/singh03kpm7w
 
 ---
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/kumarikashish-04/kumarikashish-04/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 
