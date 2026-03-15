@@ -42,7 +42,7 @@ A full-stack job portal web application with authentication, job listings, and a
 
 **Tech Stack:** React, Node.js, Express.js, MongoDB
 🌐 Live: [https://job-portal.vercel.app](https://jobportal-orcin-nine.vercel.app/)
-📂 Repo: https://github.com/kumarikashish-04/Job-Portal
+📂 Repo: [https://github.com/kumarikashish-04/Job-Portal](https://github.com/kumarikashish-04/JobPortal-frontend)
 
 ---
 
