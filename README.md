@@ -231,11 +231,6 @@ https://github.com/kumarikashish-04/Crime-Analytics-Demographic-Insights-Dashboa
 <img src="https://leetcard.jacoblin.cool/kashish_04?theme=dark&font=Karma&ext=contest"/>
 </p>
 
-### 📈 Coding Stats
-
-- 🔥 Problems Solved: **YOUR_LEETCODE_SOLVED**
-- ⭐ Contest Rating: **YOUR_CONTEST_RATING**
-- 🚀 Current Streak: **YOUR_CURRENT_STREAK**
 
 ### Coding Profiles
 
