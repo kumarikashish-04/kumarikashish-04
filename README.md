@@ -1,145 +1,225 @@
-# Hi 👋 I'm Kashish Kumari
+<h1 align="center">Hi 👋, I'm Kashish Kumari</h1>
+<h3 align="center">Software Developer | Java Backend Developer | Full Stack Developer | DSA Enthusiast</h3>
 
-
-💻 **C++ Developer | DSA Learner | Backend Enthusiast**
-
-🚀 Passionate about solving problems and building scalable backend systems.
-📚 Currently focusing on **Data Structures & Algorithms, Backend Development, and Big Data**.
+<p align="center">
+Passionate about building scalable software, solving challenging algorithmic problems, and developing AI-powered applications.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Data Structures & Algorithms**
-* 💻 Exploring **Backend Development with Node.js**
-* 📊 Working with **Hadoop & Big Data Technologies**
-* 🧠 Practicing coding problems regularly
-* 🎯 Goal: Become a **strong Software Developer**
+- 💻 Strong in **Data Structures & Algorithms**
+- ☕ Primary Programming Language: **Java**
+- 🌐 Full Stack Developer using **React, Node.js, Express.js & MongoDB**
+- 🤖 Interested in **Artificial Intelligence, LLMs & RAG Applications**
+- 📊 Experience with **Power BI, Hadoop & Data Analytics**
+- 🌱 Always learning new technologies and building impactful projects
+- 🎯 Aspiring Software Engineer passionate about backend systems and scalable applications
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-**Languages**
-C++ | JavaScript | Python
+### Languages
 
-**Backend**
-Node.js | Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,mysql" />
+</p>
 
-**Database**
-MongoDB | MySQL
+### Frontend
 
-**Tools**
-Git | GitHub | VS Code | Jupyter Notebook | sklearn
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman" />
+</p>
+
+- Hadoop
+- Power BI
+- Jupyter Notebook
+- Scikit-Learn
 
 ---
 
 # 🚀 Featured Projects
 
-### 🔹 Job Portal Web Application
+## 🤖 InterviewIQ AI ⭐
 
-A full-stack job portal web application with authentication, job listings, and application management.
+AI-powered interview preparation platform that helps candidates prepare for technical and HR interviews using Large Language Models.
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB
-🌐 Live: [https://job-portal.vercel.app](https://jobportal-orcin-nine.vercel.app/)
-📂 Repo: [https://github.com/kumarikashish-04/Job-Portal](https://github.com/kumarikashish-04/JobPortal-frontend)
+### Features
 
----
+- 📄 Resume Analysis
+- 🎤 AI HR Interview
+- 💻 AI Technical Interview
+- 🤖 Personalized Feedback
+- 📊 Performance Analytics
+- 📥 Downloadable PDF Report
+- 🔐 Authentication
+- 📱 Responsive UI
 
-### 🔹 Portfolio Website
+### Tech Stack
 
-A modern responsive developer portfolio showcasing projects and skills.
+**React • Node.js • Express.js • MongoDB • OpenRouter API • Firebase**
 
-**Tech Stack:** React, Tailwind CSS, JavaScript
-🌐 Live: https://kashish4portfolio.netlify.app/
-📂 Repo: https://github.com/kumarikashish-04/Portfolio
+🌐 Live Demo
 
----
+https://interview-iq-client.vercel.app/
 
-### 🔹 Weather Vista
+📂 Backend Repository
 
-Weather forecasting application using API with a clean UI.
-
-**Tech Stack:** React, API, Tailwind
-🌐 Live: https://weather1vista.netlify.app
-📂 Repo: https://github.com/kumarikashish-04/WeatherVista
-
----
-
-### 🔹 Password Generator
-
-Secure password generator with customizable options.
-
-**Tech Stack:** HTML, CSS, JavaScript
-🌐 Live: https://password04gen.netlify.app
-📂 Repo: https://github.com/kumarikashish-04/PasswordGenerator
+https://github.com/kumarikashish-04/InterviewIQ-Server
 
 ---
 
-### 🔹 Crime Analytics Demographics Dashboard
+## 💼 Job Portal
 
-Interactive Power BI dashboard visualizing crime trends and analytics.
+A complete full-stack Job Portal with recruiter dashboard, authentication, applicant management and secure REST APIs.
 
-**Tech Stack:** Power BI, Data Analytics
-🌐 Live: https://app.powerbi.com/groups/me/reports/34227bf9-200d-4cf0-a8ff-ffaa8ef78a09
-📂 Repo: https://github.com/kumarikashish-04/Crime-Analytics-Demographic-Insights-Dashboard
+### Tech Stack
 
----
+React • Node.js • Express.js • MongoDB
 
-### 🔹 Violence Reduction Dashboard
+🌐 Live
 
-Data analytics dashboard using Excel to visualize violence trends.
+https://job-portal.vercel.app
 
-**Tech Stack:** Excel, Data Analysis
-📂 Repo: https://github.com/kumarikashish-04/Violence_Reduction_dashboard1
+📂 Repository
 
----
-
-### 🔹 Student Record System
-
-Java Swing desktop application for managing student records with CRUD operations.
-
-**Tech Stack:** Java, Swing, MySQL
-📂 Repo: https://github.com/kumarikashish-04/student-record-system-java-swing
+https://github.com/kumarikashish-04/Job-Portal
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Portfolio Website
 
-![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarikashish-04\&show_icons=true\&theme=tokyonight)
+Responsive portfolio showcasing projects, skills and achievements.
 
----
+**Tech Stack**
 
-## 🔥 GitHub Streak
+React • Tailwind CSS
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kumarikashish-04\&theme=tokyonight)
+🌐 Live
 
----
+https://kashish4portfolio.netlify.app/
 
-## 📈 Most Used Languages
+📂 Repository
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarikashish-04\&layout=compact\&theme=tokyonight)
-
----
-
-## 🏆 Coding Profiles
-
-💻 LeetCode: https://leetcode.com/u/kashish_04/
-💻 GeeksforGeeks: https://www.geeksforgeeks.org/profile/singh03kpm7w
-
----
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/kumarikashish-04/kumarikashish-04/blob/output/github-contribution-grid-snake.svg)
-
-## 📫 Connect With Me
-
-🔗 LinkedIn
-https://www.linkedin.com/in/kashish-kumari04/
-
-📧 Email
-mailto:kashish87897231@gmail.com
+https://github.com/kumarikashish-04/Portfolio
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+## 🌦 Weather Vista
+
+Real-time weather forecasting application using Weather APIs.
+
+**Tech Stack**
+
+React • Tailwind CSS • REST API
+
+🌐 Live
+
+https://weather1vista.netlify.app
+
+📂 Repository
+
+https://github.com/kumarikashish-04/WeatherVista
+
+---
+
+## 🎓 Student Record Management System
+
+Desktop CRUD application built using Java Swing and MySQL.
+
+**Tech Stack**
+
+Java • Swing • MySQL
+
+📂 Repository
+
+https://github.com/kumarikashish-04/student-record-system-java-swing
+
+---
+
+## 📊 Crime Analytics Dashboard
+
+Interactive Power BI dashboard visualizing crime trends and demographic insights.
+
+**Tech Stack**
+
+Power BI
+
+📂 Repository
+
+https://github.com/kumarikashish-04/Crime-Analytics-Demographic-Insights-Dashboard
+
+---
+
+# 🏆 Coding Profiles
+
+### LeetCode
+
+https://leetcode.com/u/kashish_04/
+
+- ⭐ Problems Solved: **YOUR_LEETCODE_SOLVED**
+- 🔥 Current Streak: **YOUR_CURRENT_STREAK**
+- 📈 Rating: **YOUR_LEETCODE_RATING**
+
+### GeeksforGeeks
+
+https://www.geeksforgeeks.org/profile/singh03kpm7w
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumarikashish-04&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarikashish-04&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=kumarikashish-04&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kumarikashish-04&theme=tokyonight&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/kashish-kumari04/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:kashish87897231@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+📧 **Email:** kashish87897231@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/kashish-kumari04/
+
+---
+
+## 💡 Quote
+
+> "Consistency in learning and building is the key to becoming a great Software Engineer."
+
+---
+
+⭐ If you like my work, consider giving a ⭐ to my repositories.
